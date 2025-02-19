@@ -5,6 +5,7 @@ using Mission06_Tayler.Models;
 
 namespace Mission06_Tayler.Controllers
 {
+    // THIS COMMENT IS BEING ADDED TO THE NEW BRANCH
     public class HomeController : Controller
     {
         private MovieCollectionContext _context;
